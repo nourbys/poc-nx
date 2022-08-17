@@ -1,0 +1,48 @@
+{
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/web-client/src",
+  "targets": {
+    "build": {
+      "executor": "nx-vue3-vite:build-app",
+      "options": {
+        "dist": "dist/apps/web-client"
+      }
+    },
+    "serve": {
+      "executor": "nx-vue3-vite:dev-server"
+    },
+    "e2e": {
+      "executor": "nx-vue3-vite:cypress",
+      "options": {
+        "cypressConfig": "apps/web-client/cypress.json",
+        "testingType": "component"
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "options": {
+        "lintFilePatterns": ["apps/web-client/**/*.{js,jsx,ts,tsx,vue}"]
+      }
+    },
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/apps/web-client"],
+      "options": {
+        "jestConfig": "apps/web-client/jest.config.ts",
+        "passWithNoTests": true
+      }
+    },
+    "release": {
+      "builder": "@nrwl/workspace:run-commands",
+      "options": {
+        "commands": [
+          {
+            "command": "npx semantic-release --debug --extends=./apps/web-client/release.config.js"
+          }
+        ]
+      }
+    }
+  },
+  "tags": []
+}
