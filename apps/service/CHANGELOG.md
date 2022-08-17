@@ -1,3 +1,15 @@
+## [1.4.0](https://github.com/jbrenault/poc-nx/compare/service-v1.3.0...service-v1.4.0) (2022-08-17)
+
+
+### Features
+
+* add feature to force release apps ([25ea270](https://github.com/jbrenault/poc-nx/commit/25ea27037e74b1eec9873830168d4d328929c61b))
+
+
+### Chores
+
+* assets for release should be composed only with related elements ([a55d87c](https://github.com/jbrenault/poc-nx/commit/a55d87cabd4d587537c7bf77b5da89e4ab02f3f3))
+
 ## [1.3.0](https://github.com/jbrenault/poc-nx/compare/service-v1.2.0...service-v1.3.0) (2022-08-17)
 
 
