@@ -11,7 +11,11 @@ module.exports = {
   plugins: [
     '@semantic-release/commit-analyzer',
     '@semantic-release/release-notes-generator',
-    '@semantic-release/github',
+    ["@semantic-release/github", {
+      "assets": [
+        {"path": `dist/${appPath}`, "label": "build assets for web-client"}
+      ]
+    }],
     [
       '@semantic-release/changelog',
       {
