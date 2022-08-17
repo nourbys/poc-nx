@@ -8,7 +8,7 @@
     "start": "nx serve",
     "test": "nx test",
     "e2e": "nx e2e",
-    "release": "nx release",
+    "release": "nx run-many --all --target=release --parallel=1",
     "affected": "nx affected",
     "affected:apps": "nx print-affected --type=app --select=projects",
     "affected:libs": "nx affected:libs",
