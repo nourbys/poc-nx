@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/jbrenault/poc-nx/compare/service-v1.0.0...service-v1.1.0) (2022-08-17)
+
+
+### Features
+
+* after toto here comes titi feature ([65621ba](https://github.com/jbrenault/poc-nx/commit/65621ba50f2e53877e8631f209818cbad9e51592))
+
 ## 1.0.0 (2022-08-17)
 
 
