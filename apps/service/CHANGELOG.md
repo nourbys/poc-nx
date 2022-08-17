@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/jbrenault/poc-nx/compare/service-v1.1.0...service-v1.2.0) (2022-08-17)
+
+
+### Features
+
+* tata feature across the CPU (configurators project universe) ([35bff72](https://github.com/jbrenault/poc-nx/commit/35bff7216f76c0d6e95054de0c8a6fef242c6ffd))
+
 ## [1.1.0](https://github.com/jbrenault/poc-nx/compare/service-v1.0.0...service-v1.1.0) (2022-08-17)
 
 
