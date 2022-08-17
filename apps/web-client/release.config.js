@@ -5,6 +5,7 @@ const artifactName = appName;
 module.exports = {
   name: appName,
   pkgRoot: `dist/${appPath}`,
+  repositoryUrl: 'https://github.com/jbrenault/poc-nx/tree/main/apps/web-client',
   tagFormat: artifactName + '-v${version}',
   commitPaths: ['force-release.md', `${appPath}/*`], // should come from dep-graph and angular.json
   assets: [`${appPath}/README.md`, `${appPath}/CHANGELOG.md`],

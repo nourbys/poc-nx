@@ -5,6 +5,7 @@ const artifactName = appName;
 module.exports = {
   name: appName,
   pkgRoot: `dist/${appPath}`,
+  repositoryUrl: 'https://github.com/jbrenault/poc-nx/tree/main/apps/service',
   tagFormat: artifactName + '-v${version}',
   commitPaths: ['force-release.md', `${appPath}/*`], // should come from dep-graph
   assets: [`${appPath}/README.md`, `${appPath}/CHANGELOG.md`],
