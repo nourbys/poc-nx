@@ -1,3 +1,15 @@
+## [1.3.0](https://github.com/jbrenault/poc-nx/compare/service-v1.2.0...service-v1.3.0) (2022-08-17)
+
+
+### Features
+
+* use github plugin for semantic release ([87a7ffc](https://github.com/jbrenault/poc-nx/commit/87a7ffccdc56b37534d4d41eda6f8697df9995bf))
+
+
+### Chores
+
+* update repository configuration ([d88ec73](https://github.com/jbrenault/poc-nx/commit/d88ec730efc052f41af7b872a11fff7f6f11197b))
+
 ## [1.2.0](https://github.com/jbrenault/poc-nx/compare/service-v1.1.0...service-v1.2.0) (2022-08-17)
 
 
