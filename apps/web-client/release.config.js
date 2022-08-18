@@ -6,7 +6,7 @@ module.exports = {
   name: appName,
   pkgRoot: `dist/${appPath}`,
   tagFormat: artifactName + '-v${version}',
-  commitPaths: ['force-release.md', `${appPath}/*`], // should come from dep-graph and angular.json
+  commitPaths: ['force-release.md', `${appPath}/*`],
   assets: [`${appPath}/README.md`, `${appPath}/CHANGELOG.md`],
   plugins: [
     '@semantic-release/commit-analyzer',
