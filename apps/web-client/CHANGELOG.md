@@ -5,6 +5,18 @@
 
 * upload artifacts on release ([f74407d](https://github.com/jbrenault/poc-nx/commit/f74407d6a9238287f4b8e90a7521916c562ea967))
 
+
+### Chores
+
+* **release:** web-client-v1.4.0 [skip ci] ([bff71d1](https://github.com/jbrenault/poc-nx/commit/bff71d1c7b147dfe82136bd51b1b2bc0997f8eff))
+
+## [1.4.0](https://github.com/jbrenault/poc-nx/compare/web-client-v1.3.0...web-client-v1.4.0) (2022-08-18)
+
+
+### Features
+
+* upload artifacts on release ([f74407d](https://github.com/jbrenault/poc-nx/commit/f74407d6a9238287f4b8e90a7521916c562ea967))
+
 ## [1.3.0](https://github.com/jbrenault/poc-nx/compare/web-client-v1.2.0...web-client-v1.3.0) (2022-08-17)
 
 
