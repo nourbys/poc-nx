@@ -1,3 +1,10 @@
+## [1.5.0](https://github.com/jbrenault/poc-nx/compare/service-v1.4.0...service-v1.5.0) (2022-08-18)
+
+
+### Features
+
+* upload artifacts on release ([f74407d](https://github.com/jbrenault/poc-nx/commit/f74407d6a9238287f4b8e90a7521916c562ea967))
+
 ## [1.4.0](https://github.com/jbrenault/poc-nx/compare/service-v1.3.0...service-v1.4.0) (2022-08-17)
 
 
