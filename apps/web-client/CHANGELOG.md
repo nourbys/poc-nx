@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/nourbys/poc-nx/compare/web-client-v1.1.0...web-client-v1.2.0) (2022-08-19)
+
+
+### Features
+
+* toto ([47c42ab](https://github.com/nourbys/poc-nx/commit/47c42ab07473bb72be9aeb1eb07322d76addf42b))
+
 ## [1.1.0](https://github.com/nourbys/poc-nx/compare/web-client-v1.0.0...web-client-v1.1.0) (2022-08-19)
 
 
