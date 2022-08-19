@@ -1,3 +1,10 @@
+## [1.4.0](https://github.com/nourbys/poc-nx/compare/service-v1.3.0...service-v1.4.0) (2022-08-19)
+
+
+### Features
+
+* test release ([b7efff9](https://github.com/nourbys/poc-nx/commit/b7efff901c43a9539a9d048e694e70185e852058))
+
 ## [1.3.0](https://github.com/nourbys/poc-nx/compare/service-v1.2.0...service-v1.3.0) (2022-08-19)
 
 
