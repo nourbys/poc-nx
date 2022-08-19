@@ -1,3 +1,10 @@
+## [1.4.0](https://github.com/nourbys/poc-nx/compare/web-client-v1.3.0...web-client-v1.4.0) (2022-08-19)
+
+
+### Features
+
+* test ([43d387a](https://github.com/nourbys/poc-nx/commit/43d387acc17bec03439230eaa8c6fa51909ee72d))
+
 ## [1.3.0](https://github.com/nourbys/poc-nx/compare/web-client-v1.2.0...web-client-v1.3.0) (2022-08-19)
 
 
