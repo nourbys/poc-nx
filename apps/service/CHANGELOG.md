@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/nourbys/poc-nx/compare/service-v1.1.0...service-v1.2.0) (2022-08-19)
+
+
+### Features
+
+* test ([c61ba2f](https://github.com/nourbys/poc-nx/commit/c61ba2f00056721debb079ef3f12b3cf3a3a5f8c))
+
 ## [1.1.0](https://github.com/nourbys/poc-nx/compare/service-v1.0.0...service-v1.1.0) (2022-08-19)
 
 
